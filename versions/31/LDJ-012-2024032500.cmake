@@ -1,0 +1,11 @@
+set(DLL_VERSION          2024032500)
+set(DLL_TYPE             012)
+
+set(DLL_CODE_SIZE        0x00aabc00)
+set(DLL_ENTRYPOINT       0x0095cdcc)
+set(DLL_IMAGE_SIZE       0x0781d000)
+
+set(OFFSET_HOOK_A        0x007b2e70)
+set(OFFSET_HOOK_B        0x0081d410)
+set(OFFSET_TEXTURES      0x07748328)
+set(OFFSET_D3D_DEVICE    0x000000e0)
